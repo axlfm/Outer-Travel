@@ -1,0 +1,105 @@
+.header-satu h4 {
+    background-color: aquamarine;
+    padding-left: 10%;
+    margin-right: 20%;
+    border: 5px;
+    width: 10%;
+    justify-content: flex-end;
+}
+
+.navbar-custom {
+     padding: 10px 0px 10px 0;
+}
+
+.icon-sosmed {
+    margin-left: 10%;
+}
+
+.landing-banner .bg-landing img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.landing-banner .title-banner {
+    position: absolute;
+    top: 68%;
+    left: 8%;
+    text-align: center;
+}
+
+.landing-banner .title-banner h2 {
+    font-family: 'Playfair Display';
+    font-size: 72px;
+    color: #fff;
+}
+
+.landing-banner .title-banner h4 {
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: #fff;
+    width: 60%;
+    margin-left: 19%;
+}
+
+.cards-container h4 {
+    padding-top: 10%;
+    text-align: left;
+    margin-left: 5.6%;
+    padding-bottom: 10px;
+}
+
+.col {
+    position: center;
+    padding-left: 50px;
+    width: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.carousel-container h4 {
+    font-family: 'Roboto';
+    padding-top: 10%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.carousel-inner {
+    width: 100%;
+}
+
+.description-banner .bg-description img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding-top: 13%;
+}
+
+.description-banner .title-description {
+    position: absolute;
+    margin-top: -19%;
+    left: 8%;
+    text-align: center;
+}
+
+.description-banner .title-description h2 {
+    font-family: 'Playfair Display';
+    font-size: 72px;
+    color: #fff;
+}
+
+.description-banner .title-description h4 {
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: #fff;
+    width: 60%;
+    margin-left: 19%;
+}
+
+.description-explore h4{
+    font-family: 'Roboto';
+    padding-top: 10%;
+    text-align: left;
+    margin-left: 12.6%;
+    padding-bottom: 10px;
+}
